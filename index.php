@@ -15,9 +15,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 text-area">
-                <h2 class="heading left-align">Cara Mengikuti Tantangan</h2>
+                <h2 class="heading left-align" style="font-size: 34px;">Cara Mengikuti Tantangan</h2>
                 <div class="headul left-align"></div>
-                <p>Asunt in anim uis aute irure dolor in reprehenderit in voluptate cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cun proident, sunt in anim id est laborum. Allamco laboris nisi ut commodo consequat. Aser velit.</p>
+                <!--
+                <p>Asunt in anim uis aute irure dolor in reprehenderit in voluptate cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cun proident, sunt in anim id est laborum. Allamco laboris nisi ut commodo consequat. Aser velit.</p>-->
                 
             <a href="#" class="btn btn-primary">Daftar Sekarang</a>       </div>
             <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 slider-area">
@@ -430,7 +431,11 @@
         <div class="slope upright"></div>
     </div>
     <!-- Angled Section - End -->
+    
 </section>
+
+				
+			
 <!-- Section End - Portfolio  -->
 <!-- Section Start - Contact Us -->
 <section class="parallax contact  " id="contact">

@@ -23,5 +23,9 @@
         <script src="js/owl.carousel.min.js"></script>
         <!-- Main Style -->
         <link rel="stylesheet" id="main-style" type="text/css" href="css/style.css">
+        
+  		
         <script type="text/javascript" src="js/main.js"></script>
+        
+		
     </head>

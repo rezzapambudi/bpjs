@@ -34,7 +34,7 @@
                                 </ul>
                             </li>
                             <li class='has-sub'>
-                                <a href='#'>Pages <i class='mdi mdi-chevron-down'></i></a>
+                                <a href='#'>Berita BPJS <i class='mdi mdi-chevron-down'></i></a>
                                 <ul>
                                     <li>
                                         <a href='services.html'>Services</a>
@@ -63,7 +63,7 @@
                                 </ul>
                             </li>
                             <li class='has-sub'>
-                                <a href='#'>About <i class='mdi mdi-chevron-down'></i></a>
+                                <a href='#'>Testimonial <i class='mdi mdi-chevron-down'></i></a>
                                 <ul>
                                     <li>
                                         <a href='about-us-1.html'>About Us 1</a>
@@ -73,8 +73,9 @@
                                     </li>
                                 </ul>
                             </li>
+                            <!--
                             <li class='has-sub'>
-                                <a href='#'>Portfolio <i class='mdi mdi-chevron-down'></i></a>
+                                <a href='#'>Pendaftaran <i class='mdi mdi-chevron-down'></i></a>
                                 <ul>
                                     <li>
                                         <a href='portfolio-grid.html'>Grid</a>
@@ -89,7 +90,7 @@
                                         <a href='portfolio-grid-2.html'>Grid (2 Column)</a>
                                     </li>
                                 </ul>
-                            </li>
+                            </li>-->
                         </ul>
                         <!-- Menu - End -->
                     </div>
@@ -115,7 +116,7 @@
                             </ul>
                         </li>
                         <li class='has-sub'>
-                            <a href='#'>Shortcodes <i class='mdi mdi-chevron-down'></i></a>
+                            <a href='#'>Pendaftaran <i class='mdi mdi-chevron-down'></i></a>
                             <ul>
                                 <li>
                                     <a href='typography.html'>Typography</a>
@@ -140,8 +141,9 @@
                                 </li>
                             </ul>
                         </li>
+                        
                         <li class='has-sub'>
-                            <a href='#'>Shop <i class='mdi mdi-chevron-down'></i></a>
+                            <a href='#'>Hadiah <i class='mdi mdi-chevron-down'></i></a>
                             <ul>
                                 <li>
                                     <a href='products.html'>Products</a>
@@ -151,9 +153,10 @@
                                 </li>
                             </ul>
                         </li>
+                        <!--
                         <li>
                             <a href='contact.html'>Contact</a>
-                        </li>
+                        </li>-->
                     </ul>
                     <!-- Menu - End -->
                 </div>
