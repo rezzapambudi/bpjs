@@ -9,6 +9,7 @@
         <link rel="stylesheet" type="text/css" href="css/animate.caliber.css">
         <link rel="stylesheet" type="text/css" href="css/materialdesignicons.caliber.css">
         <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+         <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
         <script type="text/javascript" src="js/jquery.min.js"></script>
         <script src="js/inviewport-1.3.2.js"></script>
         <!--Mixitup -->
@@ -23,6 +24,8 @@
         <script src="js/owl.carousel.min.js"></script>
         <!-- Main Style -->
         <link rel="stylesheet" id="main-style" type="text/css" href="css/style.css">
+        <link rel="stylesheet" type="text/css" href="css/tabs.css" />
+		<link rel="stylesheet" type="text/css" href="css/tabstyles.css" />
         
   		
         <script type="text/javascript" src="js/main.js"></script>

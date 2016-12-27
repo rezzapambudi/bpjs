@@ -4383,6 +4383,13 @@ section.twitter li {
 /*---------------------------------
     Clients
 -----------------------------------*/
+.aturan {
+    padding: 80px 0;
+    background-color: #e7ecea;
+    margin-top: 40px;
+}
+
+
 
 .client {
     min-height: 100px;

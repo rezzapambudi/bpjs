@@ -29,6 +29,7 @@
         </div>
     </div>
     <!-- Angled Section - Start -->
+    <!--
     <div class="angled_up_inside white">
         <div class="slope upleft"></div>
         <div class="slope upright"></div>
@@ -37,6 +38,38 @@
 </section>
 <!-- Section End - Made For You -->
 <!-- Section Start - Art of work -->
+
+
+			
+			
+			<section class="aturan">
+				<div class="tabs tabs-style-iconbox">
+					<nav>
+						<ul>
+							<li><a href="#section-iconbox-1"><i class="fa fa-list-ol" aria-hidden="true"></i>
+                                <br><span>Persyaratan</span></a></li>
+							<li><a href="#section-iconbox-2"><i class="fa fa-cog" aria-hidden="true"></i>
+                                <br><span>Sistem Penjurian</span></a></li>
+							<li><a href="#section-iconbox-3"><i class="fa fa-calendar-o" aria-hidden="true"></i>
+                                <br><span>Periode</span></a></li>
+							<li><a href="#section-iconbox-4"><i class="fa fa-hand-o-down" aria-hidden="true"></i>
+                                <br><span>Rekomendasi tema</span></a></li>
+							<li><a href="#section-iconbox-5"><i class="fa fa-money" aria-hidden="true"></i>
+                                <br><span>Hadiah</span></a></li>
+						</ul>
+					</nav>
+					<div class="content-wrap">
+						<section id="section-iconbox-1"><p>1</p></section>
+						<section id="section-iconbox-2"><p>2</p></section>
+						<section id="section-iconbox-3"><p>3</p></section>
+						<section id="section-iconbox-4"><p>4</p></section>
+						<section id="section-iconbox-5"><p>5</p></section>
+					</div><!-- /content -->
+				</div><!-- /tabs -->
+			</section>
+			
+
+
 <section class='bg-primary artofwork max-width-100 padding-bottom-150 '><div class="container">
     <div class="row">
         <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12 text-area">
@@ -492,4 +525,14 @@
             </div>
         </section>
         <!-- Section End - Contact Us -->
+        <script src="js/cbpFWTabs.js"></script>
+		<script>
+			(function() {
+
+				[].slice.call( document.querySelectorAll( '.tabs' ) ).forEach( function( el ) {
+					new CBPFWTabs( el );
+				});
+
+			})();
+		</script>
 <?php require_once("footer.php");?>
