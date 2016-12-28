@@ -188,8 +188,8 @@
             <div class="maintext">
                 <div class="primary-text inviewport animated delay4" data-effect="fadeInRightBig">
                     <div class="left-line">
-                        <h4>Blogger</h4>
-                        <h2>Competition</h2>
+                        <h4>Ikuti Lomba Blog</h4>
+                        <h2>Dan Menangkan Rp 30 Juta</h2>
                     </div>
                 </div>
                 <div class="black-text inviewport animated delay4" data-effect="fadeInLeftBig">

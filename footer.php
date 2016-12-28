@@ -13,8 +13,8 @@
                         <div class="logo">
                             <span><img src="img/logo-flat.png" class="img-responsive" width="55%"></span>
                         </div>
-                        <p>This is a unique & creatively designed layout built in Photoshop with a modern look. All the files are well organized and named as per content. Its very easy to change any part.</p>
-                        <p>Email: youremail@example.com <br> Phone: +1 234 5678 910</p>
+                        <p>Mau jadi peserta BPJS Ketenagakerjaan? Silahkan <a href="https://es.bpjsketenagakerjaan.go.id/bpu-mobile/cekdaftarbaru.zul" target="_blank">klik disini</a> untuk mengisi formulir pendaftaran</p>
+                        <p>Call Center 1500910</p>
                     </div>
                     <!-- Text Widget - End -->
                     <!-- Twitter Widget - Start -->
